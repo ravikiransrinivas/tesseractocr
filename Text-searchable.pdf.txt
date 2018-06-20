@@ -1,0 +1,14 @@
+IDRH
+Text-Searchable PDF
+
+Vertical text, such as this, should still be recognized by your PDF reader.
+
+This is an example of a text-searchable PDF. Notice, in your PDF reader, what happens
+when you attempt to highlight a selection of text. You should be able to copy text from this
+document as you would a standard text document, or web page. Most PDF readers have the
+ability to link together different kinds of text contained in a single file, regardless of the font,
+style or positioning of the text.1
+
+1 Even if the text isn't in the main body of the page, such as a footnote.
+
+
