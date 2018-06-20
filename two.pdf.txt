@@ -1,17 +1,0 @@
-This is a sample high resolution PDF.
-• Images that print to the edge are required to
-bleed 1/8” past the trim edge
-• Cropmarks should be turned on and offset beyond the bleed
-•Photos should be 300 dpi
-• Lineart/Bitmap images should be 900 dpi or higher
-• All fonts should be embedded (do not subset fonts)
-• All images should be cmyk for 4/color printing
-
-Please contact HBP if you have
-questions about creating pdfs.
-
-HBP_Todd_Keffer.indd 1
-
-10/22/07 12:51:04 PM
-
-
