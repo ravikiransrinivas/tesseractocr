@@ -9,7 +9,7 @@ Tech/framework used
 -------------------
 
 -   Python 3.5.2
--   tesseract 3.04.01
+-   tesseract 4
 -   leptonica-1.73
 -   ImageMagick
 
