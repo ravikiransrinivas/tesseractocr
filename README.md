@@ -54,7 +54,7 @@ The project works well under certain conditions and fails in certain conditions.
 
 The detailed test cases can be found in another documentation. As an overview the test cases in which the script the works the best is when there is embedded text in the the pdf. The code directly extracts that information and is processed for further usage.
 
-I most real world conditions a pdf would often include scanned non-embedded images such as scanned images in many formats. This is pretty accurately identified by the script and quite accurately the data is retrievable.
+In most real world conditions a pdf would often include scanned non-embedded images such as scanned images in many formats. This is pretty accurately identified by the script and quite accurately the data is retrievable.
 
 The test cases in which the code is usually fails is the one where the data is embedded in an image. In this case the output usually tries to predict it but would usually give only partial outputs especially if the image is not clear.
 
